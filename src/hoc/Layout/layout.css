@@ -1,0 +1,36 @@
+.main_body{
+    min-height: calc(100vh - 112px);
+    background-color: #000000;
+    margin:0px !important;
+}
+
+.sidebar{
+    background-color: #190061;
+    padding-top: 30px;
+}
+
+.body_container{
+    padding: 30px;
+}
+
+.sidebar ul {
+    list-style-type: none;
+}
+
+.sidebar ul li {
+    line-height: 30px;
+}
+
+.sidebar ul li:hover{
+}
+
+.sidebar ul li a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.sidebar ul li a:hover{
+    text-decoration: none;
+    color: #3ff;
+}
+
